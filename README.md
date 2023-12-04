@@ -9,7 +9,7 @@
 This integration project focuses on calculating and managing the discrepancy between the customer's paid price and the shipping charges levied by eShipper for a specific order. The primary objective is to identify and reduce the variance between what the customer pays and the actual shipping cost incurred by the courier company.
 
 ![Alt text](https://live-eshipper-media-wprocket.s3.ca-central-1.amazonaws.com/wp-content/uploads/2021/06/14061520/2-1-2.jpg)
-![Alt text]([https://cdn.shopify.com/shopifycloud/help/assets/sharing/share-image-generic-bd3ce342a910c2489b672b00e45c74b1b1548662c41448e456547fa5b6e0f585.png](https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png))
+![Alt text](https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png)
 
 
 <!-- Objectives -->
