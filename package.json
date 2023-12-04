@@ -1,0 +1,33 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "A nodejs app to connect to the Shopify Storefront API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCoffee/coffeed_shopify_api.git"
+  },
+  "author": "Coffee",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@shopify/shopify-api": "^7.4.0",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.2",
+    "request": "^2.88.2"
+  },
+  "bugs": {
+    "url": "https://github.com/TheCoffee/coffeed_shopify_api/issues"
+  },
+  "homepage": "https://github.com/TheCoffee/coffeed_shopify_api#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
