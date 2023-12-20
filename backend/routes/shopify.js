@@ -6,9 +6,9 @@ const request = require("request");
 module.exports = router;
 
 //emerhealth
-// let apiKey = '904204a93d0ab4551b7959ff6b358605';
-// let pass = '3c5a98eb1d62d52b7ff18423d030d254';
-// let shpat = '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';
+// let apiKey = '';
+// let pass = '';
+// let shpat = '';
 // let endpoint = 'orders';
 
 const shpat = process.env.SHOPIFY_SHPAT;
